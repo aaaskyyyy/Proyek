@@ -20,3 +20,4 @@ cv2.imshow("Wajah Halus & Cerah (Cepat)", hasil_akhir)
 cv2.imwrite("metode_b.jpg", hasil_akhir)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
